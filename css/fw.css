@@ -1,0 +1,28 @@
+.no-list, .no-list li {
+    -moz-user-select: none;
+    user-select: none;
+    cursor: default;
+    display: inline-block;
+    padding: 0;
+}
+
+.v-aligns-content:before{
+    display: inline-block;
+    content: '';
+    width: 0; height: 100%;
+    top: 0; left: 0;
+    vertical-align: middle;
+
+}
+
+
+.w700 { width: 700px;}
+.w600 { width: 600px;}
+.w450 { width: 450px;}
+.w320 { width: 320px;}
+.w300 { width: 300px;}
+.w200 { width: 200px;}
+.w150 { width: 150px;}
+.w100 { width: 100px;}
+.w75  { width: 75px;}
+.w50  { width: 50px;}

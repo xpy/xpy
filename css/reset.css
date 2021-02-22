@@ -1,0 +1,13 @@
+*{ margin:0; padding:0; font-family: Lato, "Trebuchet MS", Arial, Helvetica, sans-serif; outline:none; border:none; font-weight:300;}
+
+html,body,#wrapper{height:100%; width:100%; overflow:hidden; position:absolute;}
+
+body {  font-size:12px; color:#111; min-width:320px; min-height:480px; overflow:auto; text-align:center;}
+section, article, aside, footer, header, nav, hgroup, figure, address {  display:block;  } 
+
+ul,li{list-style:none; }
+
+h1,h2,h3,h4,h5{ cursor:default; }
+
+a{ text-decoration:none; color:#222; }
+a, a:focus, a:hover,a:visited, a:active{ border: none; outline: none;}

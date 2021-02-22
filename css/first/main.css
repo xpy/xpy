@@ -1,0 +1,8 @@
+h1:before { content: '';    display: inline-block;    height: 100%;    vertical-align: middle;}
+h1 { background:#fefefe; font-size:100px; font-weight:100; display:inline-block; margin:auto; width:100%; height:100%;
+	-moz-transition: color 1s ease-in-out; -moz-transition-property: color,background-color;
+	-webkit-transition: color 1s ease-in-out; -webkit-transition-property: color,background-color;
+	-o-transition: color 1s ease-in-out; -o-transition-property: color,background-color;
+	-ms-transition: color 1s ease-in-out; -ms-transition-property: color,background-color;
+	transition: color 1s ease-in-out; transition-property: color,background-color;}
+h1:hover { color:#fefefe; background:#111;}
